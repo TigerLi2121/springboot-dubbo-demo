@@ -31,6 +31,7 @@ allprojects {
                 'org.apache.dubbo:dubbo-spring-boot-starter:2.7.1',
                 'org.apache.dubbo:dubbo:2.7.1',
                 'org.apache.dubbo:dubbo-registry-nacos:2.7.1',
+                'org.apache.dubbo:dubbo-spring-boot-actuator:2.7.1',
                 'com.alibaba.nacos:nacos-client:1.0.0-RC3'
         )
     }
